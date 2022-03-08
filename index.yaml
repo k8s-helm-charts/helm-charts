@@ -1,0 +1,19 @@
+apiVersion: v1
+entries:
+  eventrouter:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-03-08T19:32:14.114916474Z"
+    description: A Helm chart for eventruter (https://github.com/heptiolabs/eventrouter)
+    digest: 8f5cad43edb4bac983f2d89284f8071f46a4c2161b7ed0d8189c7b787e4342d1
+    home: https://github.com/heptiolabs/eventrouter
+    keywords:
+    - eventrouter
+    name: eventrouter
+    sources:
+    - https://github.com/heptiolabs/eventrouter
+    type: application
+    urls:
+    - https://github.com/k8s-helm-charts/helm-charts/releases/download/eventrouter-0.1.0/eventrouter-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-03-08T19:32:13.903560402Z"
